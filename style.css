@@ -1,0 +1,19 @@
+#remove {
+  text-align: center;
+}
+
+.resultText {
+  float: left;
+}
+
+.results {
+  float: left;
+}
+
+.favorites {
+  float: right;
+}
+
+.favClass {
+  float: right;
+}
